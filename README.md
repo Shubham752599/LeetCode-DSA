@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
