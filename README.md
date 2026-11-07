@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham752599/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/Shubham752599/LeetCode-DSA/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Shubham752599/LeetCode-DSA/tree/master/2747-count-zero-request-servers) |
 | [3665-twisted-mirror-path-count](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Shubham752599/LeetCode-DSA/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
