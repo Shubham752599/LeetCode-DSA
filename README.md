@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shubham752599/LeetCode-DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
