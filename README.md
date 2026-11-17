@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [2747-count-zero-request-servers](https://github.com/Shubham752599/LeetCode-DSA/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shubham752599/LeetCode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
