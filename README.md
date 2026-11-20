@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1267-count-servers-that-communicate](https://github.com/Shubham752599/LeetCode-DSA/tree/master/1267-count-servers-that-communicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
