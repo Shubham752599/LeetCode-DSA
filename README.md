@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [3360-stone-removal-game](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shubham752599/LeetCode-DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shubham752599/LeetCode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
