@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0110-balanced-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0110-balanced-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Shubham752599/LeetCode-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shubham752599/LeetCode-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
@@ -155,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Shubham752599/LeetCode-DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
